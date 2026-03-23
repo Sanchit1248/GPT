@@ -9,4 +9,4 @@ Next we load weights from the pretrained openai gpt model and finetune it as per
 
 2. Finetuned for following instruction 
 
-Resource: _OceanofPDF.com_Build_a_Large_Language_Model_From_Scratch_-_Sebastian_Raschka.pdf
+Resource:Build_a_Large_Language_Model_From_Scratch_-_Sebastian_Raschka.pdf
